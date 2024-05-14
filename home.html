@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="styles.css" /> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  </head>
+  <body class="home-page">
+    <nav>
+      <div class="logo"><span class="blue">U</span>day</div>
+      <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="achievements.html">Achievements</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section id="home" class="section">
+      <div class="section-left">
+        <h1>Hi ! I'm Uday Kumar</h1>
+        <p>You can Call me a Web Designer...</p>
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/annepu-uday-kumar-176583270/" target="_blank"><i class="fab fa-linkedin fa-3x" style="color: #0077b5;"></i></a>
+          <a href="https://github.com/Annepuuday111" target="_blank"><i class="fab fa-github fa-3x" style="color: #333;"></i></a>
+          <a href="https://www.instagram.com/annepu_uday_kumar/" target="_blank"><i class="fab fa-instagram fa-3x" style="color: #bc2a8d;"></i></a>
+          <a href="https://wa.me/7075285071" target="_blank"><i class="fab fa-whatsapp fa-3x" style="color: #25d366;"></i></a>
+          <a href="https://t.me/Uday31007" target="_blank"><i class="fab fa-telegram fa-3x" style="color: #0088cc;"></i></a>
+        </div>
+        <a href="contact.html" class="btn">Contact Me</a>
+        <a href="#" class="btn1">See Resume</a>
+      </div>
+      <div class="section-right">
+        <img src="images/Uday.png" alt="Uday" class="section-image">
+      </div>
+    </section>
+    
+
+    
+
+    <footer>
+      <h4>Copyright © 2024. All rights reserved</h4>
+    </footer>
+
+    <script>
+      document
+        .getElementById("contact-form")
+        .addEventListener("submit", function (event) {
+          event.preventDefault();
+
+          var name = document.getElementsByName("name")[0].value;
+          var email = document.getElementsByName("email")[0].value;
+          var message = document.getElementsByName("message")[0].value;
+
+          alert("Message sent successfully!");
+
+          document.getElementsByName("name")[0].value = "";
+          document.getElementsByName("email")[0].value = "";
+          document.getElementsByName("message")[0].value = "";
+        });
+    </script>
+  </body>
+</html>

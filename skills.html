@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="styles.css" /> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+
+  </head>
+  <body>
+    <nav>
+      <div class="logo"><span class="blue">U</span>day</div>
+      <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a href="achievements.html">Achievements</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section id="about" class="section">
+      <h2 style="margin-left: -6%; margin-top: -1%;">My Skills</h2>
+      <div class="circle-container">
+        <div class="circle">
+            <img src="images/html.webp" alt="HTML" style="width: 100px; height: 100px; border-radius: 50%; height: 60px; width: 60px; margin-top: 22px;">
+            <br><br>HTML
+        </div>
+        <div class="circle">
+            <img src="images/css.png" alt="CSS" style="width: 100px; height: 100px; border-radius: 50%;">
+            <br>CSS
+        </div>
+        <div class="circle">
+          <img src="images/js.webp" alt="Java Script" style="width: 100px; height: 100px; border-radius: 50%;">
+            <br>Java Script
+        </div>
+        <div class="circle">
+          <img src="images/PostgreSQL.jpg" alt="PostgreSQL" style="width: 100px; height: 100px; border-radius: 50%;">
+          <br>PostgreSQL
+        </div>
+        <div class="circle">
+          <img src="images/mysql.png" alt="MySQL" style="width: 100px; height: 100px; border-radius: 50%; height: 70px; width: 100px; margin-left: 0px; margin-top: 13px;">
+          <br><br>MySQL
+        </div>
+        <div class="circle">
+          <img src="images/python.webp" alt="Django" style="width: 100px; height: 100px; border-radius: 50%; height: 70px; width: 70px; margin-top: 12px;">
+          <br><br>Django
+        </div>
+    </div>
+    
+    <br><br>
+    
+    <div class="circle-container">
+      <div class="circle">
+        <img src="images/C.jpg" alt="C" style="width: 100px; height: 100px; border-radius: 50%;">
+        <br>C 
+    </div>
+    <div class="circle">
+        <img src="images/java.webp" alt="Java" style="width: 100px; height: 100px; border-radius: 50%;">
+        <br>Java
+    </div>
+    <div class="circle">
+      <img src="images/python.webp" alt="python" style="width: 100px; height: 100px; border-radius: 50%; height: 70px; width: 70px; margin-top: 12px;">
+        <br><br>Python
+    </div>
+    <div class="circle">
+      <img src="images/ms-word.avif" alt="Ms-Word" style="width: 100px; height: 100px; border-radius: 50%;">
+        <br>Ms-Word
+    </div>
+    <div class="circle">
+      <img src="images/ms-excel.jpg" alt="Ms-Excel" style="width: 100px; height: 100px; border-radius: 50%;">
+        <br>Ms-Excel
+    </div>
+    <div class="circle">
+      <img src="images/ms-powerpoint.webp" alt="PowerPoint" style="width: 100px; height: 100px; border-radius: 50%;">
+      <br>PowerPoint
+    </div>
+    
+    </section>
+    
+
+    <footer>
+      <h4>Copyright © 2024. All rights reserved</h4>
+    </footer>
+
+    <script>
+      document
+        .getElementById("contact-form")
+        .addEventListener("submit", function (event) {
+          event.preventDefault();
+
+          var name = document.getElementsByName("name")[0].value;
+          var email = document.getElementsByName("email")[0].value;
+          var message = document.getElementsByName("message")[0].value;
+
+          alert("Message sent successfully!");
+
+          document.getElementsByName("name")[0].value = "";
+          document.getElementsByName("email")[0].value = "";
+          document.getElementsByName("message")[0].value = "";
+        });
+    </script>
+  </body>
+</html>
