@@ -37,30 +37,7 @@ I designed and developed a **personal portfolio website** to showcase my **proje
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=450&lines=💡+Key+Features+💡" alt="Features Animation"/>
-</h2>
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-✨ **Responsive Design** — Adapts seamlessly to desktop, tablet, and mobile screens.  
-⚡ **Smooth Animations** — Engaging transitions and hover effects throughout the site.  
-🎨 **Modern UI/UX** — Clean, minimalistic, and visually pleasing layout.  
-📬 **Interactive Contact Form** — Visitors can reach out directly from the website.  
-🧱 **Organized Codebase** — Modular structure for maintainability and scalability.  
-
-</td>
-<td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" alt="features animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=500&lines=🧩+Tech+Stack+🧩" alt="Tech Stack Animation"/>
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 </h2>
 
 <table>
@@ -100,58 +77,6 @@ Experience my **Portfolio Website** in action — designed for **speed**, **visu
 </td>
 <td width="30%" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="project preview animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=500&lines=📂+Project+Structure+📂" alt="Project Structure Animation"/>
-</h2>
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-📦 **Portfolio Website**  
-├── 🏠 index.html  
-├── 📖 about.html  
-├── ⚙️ services.html  
-├── 💼 projects.html  
-├── ✉️ contact.html  
-├── 📁 assets/  
-│     ├── 🎨 css/ → styles.css  
-│     ├── ⚙️ js/ → main.js  
-│     └── 🖼️ images/ → logo.svg, project1.png, bg.jpg  
-└── 📜 README.md  
-
-</td>
-<td width="30%" align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/icons8-terminal.gif" width="220px" alt="folder structure animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=500&lines=🧠+Future+Enhancements+🧠" alt="Future Enhancements"/>
-</h2>
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-🌗 Dark / Light Mode Toggle  
-💬 Contact Form Integration (EmailJS / Firebase)  
-🧭 Smooth Scroll Navigation  
-🎬 Section Reveal Animations with ScrollTrigger  
-🧑‍💼 Dynamic Project Cards from GitHub API  
-
-</td>
-<td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250px" alt="future features animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
