@@ -9,7 +9,9 @@
 ---
 
 ## 🚀 Live Portfolio  
+<p align="center">
 🔗 **[Visit My Portfolio Website →](https://annepuudaykumar.netlify.app/)**  
+</p>
 
 ---
 
@@ -18,8 +20,7 @@
 <tr>
 <td width="70%" valign="top">
 
-I designed and developed a **personal portfolio website** to showcase my **projects**, **technical skills**, and **contact details** in a professional format.  
-The website features a **responsive**, **interactive**, and **modern UI** with smooth animations, built using core web technologies.  
+I designed and developed a **personal portfolio website** to showcase my **projects**, **technical skills**, and **contact information** in a clean and professional format.  
 
 - 🌟 Clean layout with dynamic sections  
 - ⚡ Interactive hover effects  
@@ -28,14 +29,10 @@ The website features a **responsive**, **interactive**, and **modern UI** with s
 
 </td>
 <td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" alt="developer animation"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" alt="developer animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=💻+Beautifully+Responsive+|+Interactive+|+Modern+Portfolio!" alt="typing animation"/>
-</p>
 
 ---
 
@@ -44,35 +41,20 @@ The website features a **responsive**, **interactive**, and **modern UI** with s
 </h2>
 
 <table>
-  <tr>
-    <!-- Text Section -->
-    <td width="70%" valign="top">
+<tr>
+<td width="70%" valign="top">
 
-<p align="justify">
-
-✨ **Responsive Design** — Your portfolio automatically adapts to any screen size, ensuring a seamless experience on desktops, tablets, and smartphones.  
-
-⚡ **Smooth Animations** — Every element is crafted with subtle transitions and hover effects for an engaging and fluid user experience.  
-
-🎨 **Modern UI/UX** — Clean layout, elegant typography, and balanced spacing provide a professional and aesthetically pleasing design.  
-
-📬 **Interactive Contact Form** — A simple yet effective way for visitors to get in touch directly from the website.  
-
-🧱 **Organized Codebase** — Clean folder structure and modular code ensure scalability and easy updates.  
-
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=✨+Clean+|+Responsive+|+Interactive+|+Modern!" alt="Typing Animation"/>
-</p>
+✨ **Responsive Design** — Adapts seamlessly to desktop, tablet, and mobile screens.  
+⚡ **Smooth Animations** — Engaging transitions and hover effects throughout the site.  
+🎨 **Modern UI/UX** — Clean, minimalistic, and visually pleasing layout.  
+📬 **Interactive Contact Form** — Visitors can reach out directly from the website.  
+🧱 **Organized Codebase** — Modular structure for maintainability and scalability.  
 
 </td>
-
-<!-- Animated Image Section -->
 <td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260px" alt="Feature Animation" style="border-radius:20px; box-shadow: 0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" alt="features animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
@@ -82,56 +64,22 @@ The website features a **responsive**, **interactive**, and **modern UI** with s
 </h2>
 
 <table>
-  <tr>
-    <!-- Tech Stack Text Section -->
-    <td width="70%" valign="top">
+<tr>
+<td width="70%" valign="top">
 
-<p align="justify">
-
-Below is the list of core technologies used to design and develop my **Personal Portfolio Website**.  
-Each tool plays a crucial role in ensuring performance, scalability, and visual appeal.  
-
-</p>
-
-<table align="center">
-<thead>
-<tr>
-<th>💠 Technology</th>
-<th>📝 Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>💻 HTML5</b></td>
-<td>Provides the semantic and accessible structure for all web pages.</td>
-</tr>
-<tr>
-<td><b>🎨 CSS3</b></td>
-<td>Handles visual styling using Flexbox, Grid, and responsive design principles.</td>
-</tr>
-<tr>
-<td><b>⚙️ JavaScript (ES6)</b></td>
-<td>Brings interactivity and animations to life for a smooth UX.</td>
-</tr>
-<tr>
-<td><b>🌐 Netlify</b></td>
-<td>Offers fast, reliable, and secure deployment with continuous integration.</td>
-</tr>
-</tbody>
-</table>
+| Technology | Description |
+|------------|-------------|
+| 💻 **HTML5** | Semantic and accessible web page structure |
+| 🎨 **CSS3** | Styling with Flexbox, Grid, and responsive design |
+| ⚙️ **JavaScript (ES6)** | Dynamic interactions and animations |
+| 🌐 **Netlify** | Hosting with fast and secure deployment |
 
 </td>
-
-<!-- Animated Image Section -->
 <td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="260px" alt="Tech Stack Animation" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,255,163,0.4); margin-top: 15px;"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="250px" alt="tech stack animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
-  </tr>
+</tr>
 </table>
-
-<p align="center" style="margin-top:20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=🧠+Clean+Structure+|+Scalable+Design+|+Future+Ready!" alt="Typing Animation"/>
-</p>
 
 ---
 
@@ -140,33 +88,20 @@ Each tool plays a crucial role in ensuring performance, scalability, and visual 
 </h2>
 
 <table>
-  <tr>
-    <!-- Text Section -->
-    <td width="70%" valign="top">
+<tr>
+<td width="70%" valign="top">
 
-<p align="justify">
+Experience my **Portfolio Website** in action — designed for **speed**, **visual appeal**, and **seamless interaction**.  
 
-Experience my **Personal Portfolio Website** in action — crafted for **speed**, **elegance**, and **seamless user interaction**.  
-Each section transitions smoothly with responsive layouts that adapt beautifully across all devices.  
-The design emphasizes **performance**, **visual appeal**, and **developer personality** — ensuring every visitor enjoys an engaging experience.  
-
-🌟 Built with passion and precision.  
-⚡ Optimized for performance and smooth navigation.  
-💼 Showcases projects, skills, and contact info with elegance.  
-
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=⚡+Fast+|+Elegant+|+Interactive+|+Responsive!" alt="Typing Animation"/>
-</p>
+- 🌟 Smooth responsive layout  
+- ⚡ Engaging animations & hover effects  
+- 💼 Showcase of projects, skills, and contact info  
 
 </td>
-
-<!-- Animated Image Section -->
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="Portfolio Animation" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,255,163,0.4); margin-top: 15px;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="project preview animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
@@ -176,51 +111,54 @@ The design emphasizes **performance**, **visual appeal**, and **developer person
 </h2>
 
 <table>
-  <tr>
-    <!-- Text Section -->
-    <td width="70%" valign="top">
-
-```bash
-📦 Portfolio Website
-├── 🏠 index.html
-├── 📖 about.html
-├── ⚙️ services.html
-├── 💼 projects.html
-├── ✉️ contact.html
-├── 📁 assets/
-│     ├── 🎨 css/
-│     │     └── styles.css
-│     ├── ⚙️ js/
-│     │     └── main.js
-│     └── 🖼️ images/
-│           ├── logo.svg
-│           ├── project1.png
-│           └── bg.jpg
-└── 📜 README.md
-
----
-
-## 🧠 Future Enhancements  
-<table>
 <tr>
 <td width="70%" valign="top">
 
-🌗 **Dark / Light Mode Toggle**  
-💬 **Contact Form Integration (EmailJS / Firebase)**  
-🧭 **Smooth Scroll Navigation**  
-🎬 **Section Reveal Animations with ScrollTrigger**  
-🧑‍💼 **Dynamic Project Cards from GitHub API**
+📦 **Portfolio Website**  
+├── 🏠 index.html  
+├── 📖 about.html  
+├── ⚙️ services.html  
+├── 💼 projects.html  
+├── ✉️ contact.html  
+├── 📁 assets/  
+│     ├── 🎨 css/ → styles.css  
+│     ├── ⚙️ js/ → main.js  
+│     └── 🖼️ images/ → logo.svg, project1.png, bg.jpg  
+└── 📜 README.md  
 
 </td>
 <td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250px" alt="future features animation"/>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/icons8-terminal.gif" width="220px" alt="folder structure animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=500&lines=🧠+Future+Enhancements+🧠" alt="Future Enhancements"/>
+</h2>
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+🌗 Dark / Light Mode Toggle  
+💬 Contact Form Integration (EmailJS / Firebase)  
+🧭 Smooth Scroll Navigation  
+🎬 Section Reveal Animations with ScrollTrigger  
+🧑‍💼 Dynamic Project Cards from GitHub API  
+
+</td>
+<td width="30%" align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250px" alt="future features animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnnepuUdayKumar&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnepuUdayKumar&layout=compact&theme=tokyonight" height="165" />
@@ -228,24 +166,22 @@ The design emphasizes **performance**, **visual appeal**, and **developer person
 
 ---
 
-## 💌 Connect With Me  
+## 💌 Connect With Me
 <p align="center">
   <a href="https://annepuudaykumar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="mailto:annepuudaykumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/annepuudaykumar/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/AnnepuUdayKumar" target="_blank">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+Annepu+UdayKumar;Thanks+for+visiting+my+portfolio!;Let's+connect+and+build+something+awesome!" />
 </p>
-
----
