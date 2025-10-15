@@ -1,4 +1,6 @@
-<h1 align="center">✨ Personal Portfolio Website ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&color=00C6FF&center=true&vCenter=true&width=600&height=60&lines=✨+Annepu+UdayKumar's+Portfolio+Website+✨;Front-End+Developer+%7C+Web+Designer+%7C+Tech+Enthusiast;Showcasing+My+Projects+and+Skills!" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -8,72 +10,77 @@
 
 ---
 
-## 🚀 Live Portfolio  
-🔗 **[Visit My Portfolio Website →](https://annepuudaykumar.netlify.app/)**  
-
----
-
-## 🧑‍💻 About the Project  
-
-I designed and developed a **personal portfolio website** to showcase my **projects**, **technical skills**, and **contact details** in a clean and professional format.  
-The website features a **responsive**, **interactive**, and **modern UI** built using core web technologies.  
-
+## 🚀 **Live Portfolio**
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="coding gif"/>
+  <a href="https://annepuudaykumar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20To%20Visit%20🌐-00C6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💡 Features  
+## 🧑‍💻 **About the Project**
 
-✨ **Responsive Design** — Works seamlessly across all screen sizes (mobile, tablet, desktop).  
-⚡ **Smooth Animations** — Subtle transitions for interactive elements.  
-🎨 **Modern UI** — Clean layout and easy navigation.  
-📬 **Contact Section** — Quick form to reach out directly.  
-🧱 **Well-Structured Codebase** — Organized folder structure for scalability.  
+I’ve designed and developed a **personal portfolio website** to showcase my **projects**, **skills**, and **contact details** in a modern, professional layout.  
+It features a **responsive**, **animated**, and **interactive** design that enhances the user experience.
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420px" alt="coding gif"/>
+</p>
 
 ---
 
-## 🧩 Tech Stack  
+## 💡 **Features**
+
+| 🌟 Feature | 📝 Description |
+|-------------|----------------|
+| 📱 **Responsive Design** | Seamlessly adapts to mobile, tablet, and desktop screens. |
+| ⚡ **Smooth Animations** | CSS & JS-based transitions for elegant interactivity. |
+| 🎨 **Modern UI** | Clean design focused on clarity and creativity. |
+| 📬 **Contact Section** | Functional form for quick communication. |
+| 🧱 **Organized Codebase** | Well-structured and scalable for future updates. |
+
+---
+
+## 🧩 **Tech Stack**
+
+<div align="center">
 
 | Technology | Description |
 |-------------|-------------|
-| 💻 **HTML5** | For semantic and accessible structure |
-| 🎨 **CSS3** | For styling and layout with responsive design |
-| ⚙️ **JavaScript (ES6)** | For interactivity and dynamic behavior |
-| 🌐 **Netlify** | For fast and reliable hosting |
+| 💻 **HTML5** | Semantic and accessible structure |
+| 🎨 **CSS3** | Modern styling with animations and layouts |
+| ⚙️ **JavaScript (ES6)** | Dynamic and interactive behavior |
+| 🌐 **Netlify** | Fast, free, and secure hosting |
 
+</div>
 
 ---
 
-## 🎞️ Preview  
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=📂+Project+Structure+Overview+📂" />
+</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216653204-1b9d4485-3c17-4570-bc03-21844d95b4e4.gif" width="700px" alt="Portfolio Preview"/>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/icons8-terminal.gif" width="80px"/>
 </p>
 
----
+<div align="center">
 
-## 🧠 Future Enhancements  
-
-- 🌈 Add Dark / Light Mode Toggle  
-- 💬 Integrate Contact Form with EmailJS or Firebase  
-- 🧭 Add Smooth Scroll & Section Highlight  
-- 📊 Include GitHub Project Stats  
-
----
-
-## 💌 Connect With Me  
-
-<p align="center">
-  <a href="https://annepuudaykumar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
-  <a href="mailto:yourname@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/annepuudaykumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/AnnepuUdayKumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by <b>Annepu UdayKumar</b>
-</p>
+```bash
+📦 Portfolio Website
+├── 🏠 index.html
+├── 📖 about.html
+├── ⚙️ services.html
+├── 💼 projects.html
+├── ✉️ contact.html
+├── 📁 assets/
+│     ├── 🎨 css/
+│     │     └── styles.css
+│     ├── ⚙️ js/
+│     │     └── main.js
+│     └── 🖼️ images/
+│           ├── logo.svg
+│           ├── project1.png
+│           └── background.jpg
+└── 📜 README.md
