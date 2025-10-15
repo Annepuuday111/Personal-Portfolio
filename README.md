@@ -39,65 +39,134 @@ The website features a **responsive**, **interactive**, and **modern UI** with s
 
 ---
 
-## 💡 Features  
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=450&lines=💡+Key+Features+💡" alt="Features Animation"/>
+</h2>
+
 <table>
-<tr>
-<td width="70%" valign="top">
+  <tr>
+    <!-- Text Section -->
+    <td width="70%" valign="top">
 
-✨ **Responsive Design** — Adapts beautifully to all devices.  
-⚡ **Smooth Animations** — Enhanced user interactions with transitions.  
-🎨 **Modern UI/UX** — A clean and minimal interface.  
-📬 **Contact Form** — Reach out directly through an integrated form.  
-🧱 **Organized Codebase** — Easy to maintain and expand.  
+<p align="justify">
+
+✨ **Responsive Design** — Your portfolio automatically adapts to any screen size, ensuring a seamless experience on desktops, tablets, and smartphones.  
+
+⚡ **Smooth Animations** — Every element is crafted with subtle transitions and hover effects for an engaging and fluid user experience.  
+
+🎨 **Modern UI/UX** — Clean layout, elegant typography, and balanced spacing provide a professional and aesthetically pleasing design.  
+
+📬 **Interactive Contact Form** — A simple yet effective way for visitors to get in touch directly from the website.  
+
+🧱 **Organized Codebase** — Clean folder structure and modular code ensure scalability and easy updates.  
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=✨+Clean+|+Responsive+|+Interactive+|+Modern!" alt="Typing Animation"/>
+</p>
 
 </td>
+
+<!-- Animated Image Section -->
 <td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250px" alt="feature animation"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260px" alt="Feature Animation" style="border-radius:20px; box-shadow: 0 0 15px rgba(0,255,163,0.4);"/>
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-## 🧩 Tech Stack  
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=500&lines=🧩+Tech+Stack+🧩" alt="Tech Stack Animation"/>
+</h2>
+
 <table>
+  <tr>
+    <!-- Tech Stack Text Section -->
+    <td width="70%" valign="top">
+
+<p align="justify">
+
+Below is the list of core technologies used to design and develop my **Personal Portfolio Website**.  
+Each tool plays a crucial role in ensuring performance, scalability, and visual appeal.  
+
+</p>
+
+<table align="center">
+<thead>
 <tr>
-<td width="70%" valign="top">
-
-| Technology | Description |
-|-------------|-------------|
-| 💻 **HTML5** | Semantic structure for accessible design |
-| 🎨 **CSS3** | Advanced layouts with Flexbox & Grid |
-| ⚙️ **JavaScript (ES6)** | Dynamic interactions and animations |
-| 🌐 **Netlify** | Fast, secure, and serverless hosting |
-
-</td>
-<td width="30%" align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/icons8-terminal.gif" width="200px" alt="tech stack animation"/>
-</td>
+<th>💠 Technology</th>
+<th>📝 Description</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td><b>💻 HTML5</b></td>
+<td>Provides the semantic and accessible structure for all web pages.</td>
+</tr>
+<tr>
+<td><b>🎨 CSS3</b></td>
+<td>Handles visual styling using Flexbox, Grid, and responsive design principles.</td>
+</tr>
+<tr>
+<td><b>⚙️ JavaScript (ES6)</b></td>
+<td>Brings interactivity and animations to life for a smooth UX.</td>
+</tr>
+<tr>
+<td><b>🌐 Netlify</b></td>
+<td>Offers fast, reliable, and secure deployment with continuous integration.</td>
+</tr>
+</tbody>
 </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=🧠+Clean+Structure+|+Scalable+Design+|+Future+Ready!" alt="typing animation"/>
+</td>
+
+<!-- Animated Image Section -->
+<td width="30%" align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="260px" alt="Tech Stack Animation" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,255,163,0.4); margin-top: 15px;"/>
+</td>
+  </tr>
+</table>
+
+<p align="center" style="margin-top:20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=🧠+Clean+Structure+|+Scalable+Design+|+Future+Ready!" alt="Typing Animation"/>
 </p>
 
 ---
 
-## 🎞️ Project Preview  
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=500&lines=🎞️+Project+Preview+🎞️" alt="Project Preview Animation"/>
+</h2>
+
 <table>
-<tr>
-<td width="70%" valign="top">
+  <tr>
+    <!-- Text Section -->
+    <td width="70%" valign="top">
 
-Experience my portfolio in action — designed for **speed**, **elegance**, and **user engagement**.  
-Each section transitions smoothly and adapts perfectly across screen sizes.  
-Built for modern developers who value both aesthetics and performance.  
+<p align="justify">
+
+Experience my **Personal Portfolio Website** in action — crafted for **speed**, **elegance**, and **seamless user interaction**.  
+Each section transitions smoothly with responsive layouts that adapt beautifully across all devices.  
+The design emphasizes **performance**, **visual appeal**, and **developer personality** — ensuring every visitor enjoys an engaging experience.  
+
+🌟 Built with passion and precision.  
+⚡ Optimized for performance and smooth navigation.  
+💼 Showcases projects, skills, and contact info with elegance.  
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=⚡+Fast+|+Elegant+|+Interactive+|+Responsive!" alt="Typing Animation"/>
+</p>
 
 </td>
+
+<!-- Animated Image Section -->
 <td width="30%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216653204-1b9d4485-3c17-4570-bc03-21844d95b4e4.gif" width="280px" alt="portfolio preview animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="Portfolio Animation" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,255,163,0.4); margin-top: 15px;"/>
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
@@ -108,6 +177,7 @@ Built for modern developers who value both aesthetics and performance.
 
 <table>
   <tr>
+    <!-- Text Section -->
     <td width="70%" valign="top">
 
 ```bash
@@ -128,7 +198,7 @@ Built for modern developers who value both aesthetics and performance.
 │           └── bg.jpg
 └── 📜 README.md
 
-----
+---
 
 ## 🧠 Future Enhancements  
 <table>
